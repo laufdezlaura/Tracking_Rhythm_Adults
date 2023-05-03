@@ -8,4 +8,7 @@ Authors: Laura Fernández-Merino & Mikel Lizarazu.
 
 Affiliation: Basque Center on Cognition, Brain and Language. 
 
-For any issues with the code please contact Laura - l.fernandez@bcbl.eu
+For any issues with the code please contact the authors:
+
+Laura - l.fernandez@bcbl.eu
+Mikel - m.lizarazu@bcbl.eu
