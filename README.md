@@ -2,7 +2,7 @@
 
 Collection of MATLAB code used for the EEG analysis accompanying the project "The rhythm takes it all: Basque-Spanish bilingual adults' cortical tracking of speech after brief exposure to music". 
 
-See XXX (publication). 
+See Fernández-Merino, Laura; Lizarazu, Mikel (2023): Tracking_Rhythm_Adults. figshare. Software. https://doi.org/10.6084/m9.figshare.22740353.v1. 
 
 Authors: Laura Fernández-Merino & Mikel Lizarazu.
 
