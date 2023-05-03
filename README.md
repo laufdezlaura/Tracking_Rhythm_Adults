@@ -4,7 +4,8 @@ Collection of MATLAB code used for the EEG analysis accompanying the project "Th
 
 See XXX (publication). 
 
-Authors: Laura Fernández-Merino & Mikel Lizarazu 
+Authors: Laura Fernández-Merino & Mikel Lizarazu.
+
 Affiliation: Basque Center on Cognition, Brain and Language. 
 
 For any issues with the code please contact Laura - l.fernandez@bcbl.eu
